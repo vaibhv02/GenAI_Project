@@ -1,6 +1,3 @@
-Here's a structured `README.md` for your QA Bot with Retrieval-Augmented Generation (RAG):
-
-
 # QA Bot with Retrieval-Augmented Generation (RAG)
 
 This repository contains the implementation of a Question Answering (QA) Bot powered by a Retrieval-Augmented Generation (RAG) model. The bot uses a vector database for efficient document retrieval and a generative model for producing coherent answers based on the content of the documents.
