@@ -42,13 +42,13 @@ Follow these steps to set up the QA bot on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/qa-bot.git
-   cd qa-bot
+   git clone https://github.com/vaibhv02/GenAI_Project.git
+   cd GenAI_Project
    ```
 
 2. Install the required dependencies: It's recommended to create a virtual environment first:
    ```bash
-   python3 -m venv venv
+   python3 -m venv myenv
    source venv/bin/activate  # for Windows: venv\Scripts\activate
    ```
    Then, install the dependencies:
@@ -94,5 +94,3 @@ Open your browser and go to `http://localhost:8501` to use the application.
 - **Multi-User Support:** Scale the application to support multiple users concurrently.
 - **Additional Document Formats:** Extend support to additional file formats (e.g., Word documents, plain text files).
 ```
-
-Feel free to adjust any sections as necessary!
