@@ -90,4 +90,3 @@ Open your browser and go to `http://localhost:8501` to use the application.
 - **Improved Query Processing:** Enhance the query handling mechanism to improve retrieval accuracy.
 - **Multi-User Support:** Scale the application to support multiple users concurrently.
 - **Additional Document Formats:** Extend support to additional file formats (e.g., Word documents, plain text files).
-```
